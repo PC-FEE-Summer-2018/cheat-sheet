@@ -1,0 +1,12 @@
+cd - change directory
+mkdir - create directory
+ls - list files
+touch - create file
+mv - move
+rm - remove
+history - list last used commands
+man - manual for command
+rmdir - remove directory
+ctrl + c - stop running program
+cat - 
+git - version control
